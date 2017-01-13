@@ -1,0 +1,1 @@
+Fichier texte français readme.
